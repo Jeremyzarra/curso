@@ -28,7 +28,7 @@ Underline
 
 # Code Snippets
 
-```JSON
+````JSON
 [
     {
       "code": "1",
@@ -42,3 +42,39 @@ Underline
 ````
  
 
+#  Tablas en MD
+
+
+| Nombre | Apellido | numero |
+|--------|----------|--------|
+|Juan    | Perez    | 335562    |
+|Pedro    | Soler    | 3355885    |
+|Carlos    | Pinochet    | 338546    |
+
+# Citas
+
+> Esto es una cita.
+
+Elementos de las Citas
+
+> Esto es otra Cita.
+
+# Lineas Divisoras
+
+Esto es una linea con 3 guiones medios
+
+---
+
+Esto es una linea con 3 asteriscos
+***
+
+Esto es una linea con 3 guiones bajos
+___
+
+# saltos de Lineas
+
+Esto es un salto de linea
+
+Esto es un salto de linea
+
+Esto es un salto de linea
