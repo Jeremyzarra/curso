@@ -73,7 +73,7 @@ ___
 
 # saltos de Lineas
 
-Esto es un salto de linea
+Esto es un salto de `linea`
 
 Esto es un salto de linea
 
